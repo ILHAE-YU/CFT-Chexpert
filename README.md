@@ -1,4 +1,4 @@
-# Unofficial Implementation of Category-wise Fine Tuning (CFT) on CheXpert Dataset
+# Unofficial Implementation of Category-wise Fine Tuning (CFT) on MIMIC-CXR dataset (14 labels)
 ...tbd
 
 - [Conference Paper](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_26)
